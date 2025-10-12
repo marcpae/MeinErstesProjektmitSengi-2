@@ -1,2 +1,4 @@
 ﻿  MeinErstesProjektmitSengi-2.cpp
+C:\workspace\repo\MeinErstesProjektmitSengi-2\MeinErstesProjektmitSengi-2\MeinErstesProjektmitSengi-2.cpp(35,18): warning C4101: "int2": Unreferenzierte lokale Variable
+C:\workspace\repo\MeinErstesProjektmitSengi-2\MeinErstesProjektmitSengi-2\MeinErstesProjektmitSengi-2.cpp(39,15): warning C4101: "short1": Unreferenzierte lokale Variable
   MeinErstesProjektmitSengi-2.vcxproj -> C:\workspace\repo\MeinErstesProjektmitSengi-2\x64\Debug\MeinErstesProjektmitSengi-2.exe
